@@ -1,0 +1,88 @@
+<keymap version="1" name="urandom" parent="Mac OS X 10.5+">
+  <action id="$Delete">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="meta v" />
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="AutoIndentLines">
+    <keyboard-shortcut first-keystroke="ctrl alt i" />
+    <keyboard-shortcut first-keystroke="alt tab" />
+  </action>
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="meta alt d" />
+  </action>
+  <action id="Editor Delete">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="EditorChooseLookupItem">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
+  <action id="EditorCutLineEnd">
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="ctrl a" />
+  </action>
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta f12" />
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+  </action>
+  <action id="GotoFile" />
+  <action id="GotoRelated">
+    <keyboard-shortcut first-keystroke="ctrl meta up" />
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
+  </action>
+  <action id="Images.Editor.ToggleGrid" />
+  <action id="NextSplitter" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="meta quote" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="meta semicolon" />
+  </action>
+  <action id="Rails.SwitchToModel">
+    <keyboard-shortcut first-keystroke="shift ctrl m" />
+  </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="shift meta s" />
+    <keyboard-shortcut first-keystroke="meta o" />
+  </action>
+  <action id="ShowProjectStructureSettings" />
+  <action id="StructuralSearchPlugin.StructuralSearchAction" />
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="org.jetbrains.plugins.ruby.rails.actions.navigation.SwitchToController">
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
+  <action id="org.jetbrains.plugins.ruby.rails.actions.navigation.SwitchToHelper">
+    <keyboard-shortcut first-keystroke="shift ctrl h" />
+  </action>
+  <action id="org.jetbrains.plugins.ruby.rails.actions.navigation.SwitchToView">
+    <keyboard-shortcut first-keystroke="shift ctrl v" />
+  </action>
+</keymap>
